@@ -1,0 +1,3 @@
+[submodule "Proyecto/frontend"]
+	path = Proyecto/frontend
+	url = https://github.com/joelibaceta/submodule-demo-front.git
